@@ -53,6 +53,6 @@ UserForm.defaultProps = {
         username: '',
         email: '',
     }
-}
+};
 
 export default UserForm
